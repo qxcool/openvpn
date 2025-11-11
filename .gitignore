@@ -4,4 +4,6 @@
 bin
 ovpn.db
 /src/openvpn-web/openvpn-web
-/src/openvpn-auth/openvpn-auth
+/src/openvpn-web/openvpn-web.exe
+config.json
+
